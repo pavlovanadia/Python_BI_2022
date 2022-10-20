@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 
-nucleotides_allowed = set("ATGCNatgcn") # set of allowed nucleotides for .fastq format
-quality_symbols_allowed = set("!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHI") # set of allowed symbols for phred33
+NUCLEOTIDES_ALLOWED = set("ATGCNatgcn") # set of allowed nucleotides for .fastq format
+QUALITY_SYMBOLS_ALLOWED = set("!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHI") # set of allowed symbols for phred33
 
 
 def format_check(read):
     """Function for checking whether the single reading is conform to .fastq format"""
     first_line_check = read[0][0] == "@" # does the first line start with "@"?
-    second_line_check = set(read[1]).issubset(nucleotides_allowed) # are all nucleotides really A, T, G, C or N?
+    second_line_check = set(read[1]).issubset(NUCLEOTIDES_ALLOWED) # are all nucleotides really A, T, G, C or N?
     third_line_check = read[2][0] == "+" # does a line for commentary exist?
-    fourth_line_check = set(read[3]).issubset(quality_symbols_allowed) # is it really calculable using phred33?
+    fourth_line_check = set(read[3]).issubset(QUALITY_SYMBOLS_ALLOWED) # is it really calculable using phred33?
 
     if first_line_check and second_line_check and third_line_check and fourth_line_check:
         return True
@@ -42,7 +42,11 @@ def gc_check(seq, bound):
         exit()
 
     # GC-content calculation
-    gc_content = (seq.upper().count('G') + seq.upper().count('C')) / len(seq) * 100
+    gc_sum = 0
+    for nucl in seq.upper():
+        if nucl == "G" or nucl == "C":
+            gc_sum += 1
+    gc_content = gc_sum / len(seq) * 100
 
     # checking whether GC-content fints into borders
     if min_bound <= gc_content <= max_bound:
@@ -104,10 +108,7 @@ def quality_check(seq_qual, threshold):
         q_scores_sum += (ord(val) - 33) 
     
     # checking whether the mean read quality is appropriate
-    if (q_scores_sum / len(seq_qual)) >= threshold:
-        return True
-    else:
-        return False
+    return q_scores_sum / len(seq_qual) >= threshold
 
 
 def write_good(reading, file_name):
@@ -130,12 +131,12 @@ def write_bad(reading, file_name):
     failed_file_name = suffix.format(file_name)
 
     # writing the fastq reading to a failed file
-    f = open(failed_file_name, "a")
-    for i in reading:
-        f.write(i + "\n")
-    f.close()            
+    file = open(failed_file_name, "a")
+    for line in reading:
+        file.write(line + "\n")
+    file.close()            
 
-"""main function for file reading"""
+
 def main(
     input_fastq, 
     output_file_prefix, 
@@ -143,11 +144,12 @@ def main(
     length_bounds=(0, 2**32),
     quality_threshold=0, 
     save_filtered=False):
+    """main function for file reading"""
     # file opening and writing each 4 lines to buffer
     with open(input_fastq, 'r') as inp:
         buff = []
         buff_counter = 0
-        for line in inp.readlines():
+        for line in inp:
             buff.append(line.strip())
             if len(buff) != 4:
                 continue # collecting 4 lines of fastq reading to a list
