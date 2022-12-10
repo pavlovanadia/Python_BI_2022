@@ -1,5 +1,4 @@
 #! /usr/bin/env python3
-# НЕДОДЕЛАНО: колонки
 
 import argparse
 import os
