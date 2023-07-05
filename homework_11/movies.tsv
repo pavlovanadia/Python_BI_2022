@@ -1,0 +1,251 @@
+	name	year	rating	n_reviews	director
+0	Побег из Шоушенка	1994	9.2	2720846	Frank Darabont
+1	Крёстный отец	1972	9.2	1890778	Francis Ford Coppola
+2	Темный рыцарь	2008	9.0	2693671	Christopher Nolan
+3	Крёстный отец 2	1974	9.0	1290027	Francis Ford Coppola
+4	12 рaзгневанных мужчин	1957	9.0	804279	Sidney Lumet
+5	Список Шиндлера	1993	8.9	1374240	Steven Spielberg
+6	Властелин колец: Возвращение короля	2003	8.9	1872121	Peter Jackson
+7	Криминальное чтиво	1994	8.8	2089677	Quentin Tarantino
+8	Властелин колец: Братство кольца	2001	8.8	1901316	Peter Jackson
+9	Хороший, плохой, злой	1966	8.8	771560	Sergio Leone
+10	Форрест Гамп	1994	8.8	2115523	Robert Zemeckis
+11	Бойцовский клуб	1999	8.7	2164277	David Fincher
+12	Властелин колец: Две крепости	2002	8.7	1690136	Peter Jackson
+13	Начало	2010	8.7	2390556	Christopher Nolan
+14	Звёздные войны. Эпизод 5: Империя наносит ответный удар	1980	8.7	1309976	Irvin Kershner
+15	Матрица	1999	8.7	1940707	Lana Wachowski
+16	Славные парни	1990	8.7	1180420	Martin Scorsese
+17	Пролетая над гнездом кукушки	1975	8.6	1020835	Milos Forman
+18	Семь	1995	8.6	1680657	David Fincher
+19	Семь самураев	1954	8.6	350427	Akira Kurosawa
+20	Эта замечательная жизнь	1946	8.6	468931	Frank Capra
+21	Молчание ягнят	1991	8.6	1454702	Jonathan Demme
+22	Спасти рядового Райана	1998	8.6	1411941	Steven Spielberg
+23	Город Бога	2002	8.6	765782	Fernando Meirelles
+24	Интерстеллар	2014	8.6	1881720	Christopher Nolan
+25	Жизнь прекрасна	1997	8.6	705677	Roberto Benigni
+26	Зелёная миля	1999	8.6	1322654	Frank Darabont
+27	Звёздные войны. Эпизод 4: Новая надежда	1977	8.5	1382309	George Lucas
+28	Терминатор 2: Судный день	1991	8.5	1114321	James Cameron
+29	Назад в будущее	1985	8.5	1226026	Robert Zemeckis
+30	Унесённые призраками	2001	8.5	779880	Hayao Miyazaki
+31	Пианист	2002	8.5	846981	Roman Polanski
+32	Психо	1960	8.5	681510	Alfred Hitchcock
+33	Паразиты	2019	8.5	836721	Bong Joon Ho
+34	Леон	1994	8.5	1178959	Luc Besson
+35	Король лев	1994	8.5	1075123	Roger Allers
+36	Гладиатор	2000	8.5	1522424	Ridley Scott
+37	Американская история Икс	1998	8.5	1135909	Tony Kaye
+38	Отступники	2006	8.5	1344763	Martin Scorsese
+39	Престиж	2006	8.5	1352929	Christopher Nolan
+40	Одержимость	2014	8.5	889841	Damien Chazelle
+41	Подозрительные лица	1995	8.5	1097709	Bryan Singer
+42	Casablanca	1942	8.5	579515	Michael Curtiz
+43	Могила светлячков	1988	8.5	283826	Isao Takahata
+44	Seppuku	1962	8.5	59816	Masaki Kobayashi
+45	1+1	2011	8.5	873656	Olivier Nakache
+46	Новые времена	1936	8.4	246413	Charles Chaplin
+47	Однажды на Диком Западе	1968	8.4	334696	Sergio Leone
+48	Новый кинотеатр «Парадизо»	1988	8.4	265953	Giuseppe Tornatore
+49	Окно во двор	1954	8.4	498505	Alfred Hitchcock
+50	Чужой	1979	8.4	895819	Ridley Scott
+51	Огни большого города	1931	8.4	187328	Charles Chaplin
+52	Апокалипсис сегодня	1979	8.4	677285	Francis Ford Coppola
+53	Помни	2000	8.4	1254518	Christopher Nolan
+54	Джанго освобожденный	2012	8.4	1583252	Quentin Tarantino
+55	Индиана Джонс: В поисках утраченного ковчега	1981	8.4	979224	Steven Spielberg
+56	ВАЛЛ·И	2008	8.4	1132879	Andrew Stanton
+57	Жизнь других	2006	8.4	394289	Florian Henckel von Donnersmarck
+58	Sunset Blvd.	1950	8.4	225283	Billy Wilder
+59	Тропы славы	1957	8.4	200801	Stanley Kubrick
+60	Сияние	1980	8.4	1039271	Stanley Kubrick
+61	Великий диктатор	1940	8.4	227188	Charles Chaplin
+62	Мстители: Война бесконечности	2018	8.4	1107255	Anthony Russo
+63	Свидетель обвинения	1957	8.4	128215	Billy Wilder
+64	Чужой 2	1986	8.3	727394	James Cameron
+65	Человек-паук: Через Вселенные	2018	8.3	550033	Bob Persichetti
+66	Красота по-американски	1999	8.3	1167104	Sam Mendes
+67	Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу	1964	8.3	497172	Stanley Kubrick
+68	Темный рыцарь: Возрождение легенды	2012	8.3	1727965	Christopher Nolan
+69	Олдбой	2003	8.3	590275	Park Chan-wook
+70	Бесславные ублюдки	2009	8.3	1476556	Quentin Tarantino
+71	Амадей	1984	8.3	407072	Milos Forman
+72	Тайна Коко	2017	8.3	525019	Lee Unkrich
+73	История игрушек	1995	8.3	1009044	John Lasseter
+74	Храброе сердце	1995	8.3	1049503	Mel Gibson
+75	Джокер	2019	8.3	1330613	Todd Phillips
+76	Подводная лодка	1981	8.3	254104	Wolfgang Petersen
+77	Мстители: Финал	2019	8.3	1162244	Anthony Russo
+78	Принцесса Мононоке	1997	8.3	402513	Hayao Miyazaki
+79	Однажды в Америке	1984	8.3	357478	Sergio Leone
+80	Умница Уилл Хантинг	1997	8.3	992232	Gus Van Sant
+81	Твоё имя	2016	8.3	279233	Makoto Shinkai
+82	Поющие под дождём	1952	8.3	247034	Stanley Donen
+83	Три идиота	2009	8.3	407489	Rajkumar Hirani
+84	Реквием по мечте	2000	8.3	855152	Darren Aronofsky
+85	Tengoku to jigoku	1963	8.3	47021	Akira Kurosawa
+86	История игрушек 3	2010	8.3	848253	Lee Unkrich
+87	Капернаум	2018	8.3	93466	Nadine Labaki
+88	Звёздные войны. Эпизод 6: Возвращение джедая	1983	8.3	1068280	Richard Marquand
+89	2001 год: Космическая одиссея	1968	8.3	679531	Stanley Kubrick
+90	Вечное сияние чистого разума	2004	8.3	1023415	Michel Gondry
+91	Иди и смотри	1985	8.3	83895	Elem Klimov
+92	Бешеные псы	1992	8.3	1034480	Quentin Tarantino
+93	Охота	2012	8.3	337653	Thomas Vinterberg
+94	Гражданин Кейн	1941	8.2	447698	Orson Welles
+95	Лоуренс Аравийский	1962	8.2	298902	David Lean
+96	М убийца	1931	8.2	160593	Fritz Lang
+97	На север через северо-запад	1959	8.2	332535	Alfred Hitchcock
+98	Ikiru	1952	8.2	80838	Akira Kurosawa
+99	Головокружение	1958	8.2	408172	Alfred Hitchcock
+100	Квартира	1960	8.2	185186	Billy Wilder
+101	Амели	2001	8.2	765427	Jean-Pierre Jeunet
+102	Двойная страховка	1944	8.2	159782	Billy Wilder
+103	A Clockwork Orange	1971	8.2	841521	Stanley Kubrick
+104	Цельнометаллическая оболочка	1987	8.2	752838	Stanley Kubrick
+105	Лицо со шрамом	1983	8.2	856928	Brian De Palma
+106	Гамильтон	2020	8.2	99270	Thomas Kail
+107	Пожары	2010	8.2	181871	Denis Villeneuve
+108	Схватка	1995	8.2	667356	Michael Mann
+109	Убить пересмешника	1962	8.2	320399	Robert Mulligan
+110	Вверх	2009	8.2	1059931	Pete Docter
+111	Афера	1973	8.2	267766	George Roy Hill
+112	Развод Надера и Симин	2011	8.2	248069	Asghar Farhadi
+113	Метрополис	1927	8.2	177080	Fritz Lang
+114	Таксист	1976	8.2	852501	Martin Scorsese
+115	Секреты Лос-Анджелеса	1997	8.2	589676	Curtis Hanson
+116	Крепкий орешек	1988	8.2	895947	John McTiernan
+117	Большой куш	2000	8.2	867881	Guy Ritchie
+118	Индиана Джонс и последний крестовый поход	1989	8.2	765634	Steven Spielberg
+119	Похитители велосипедов	1948	8.2	166234	Vittorio De Sica
+120	Топ Ган: Мэверик	2022	8.2	558370	Joseph Kosinski
+121	Звёздочки на земле	2007	8.2	196575	Aamir Khan
+122	1917	2019	8.2	611096	Sam Mendes
+123	Бункер	2004	8.2	360316	Oliver Hirschbiegel
+124	Дангал	2016	8.2	195445	Nitesh Tiwari
+125	На несколько долларов больше	1965	8.2	260919	Sergio Leone
+126	Бэтмен: Начало	2005	8.2	1491256	Christopher Nolan
+127	Малыш	1921	8.2	128417	Charles Chaplin
+128	В джазе только девушки	1959	8.2	271474	Billy Wilder
+129	Отец	2020	8.2	163528	Florian Zeller
+130	All About Eve	1950	8.2	133216	Joseph L. Mankiewicz
+131	Джон Уик 4	2023	8.2	63634	Chad Stahelski
+132	Волк с Уолл-стрит	2013	8.2	1444982	Martin Scorsese
+133	Зеленая книга	2018	8.2	510179	Peter Farrelly
+134	Нюрнбергский процесс	1961	8.2	79148	Stanley Kramer
+135	Ран	1985	8.2	128008	Akira Kurosawa
+136	Казино	1995	8.2	529881	Martin Scorsese
+137	Шоу Трумана	1998	8.2	1104852	Peter Weir
+138	Нефть	2007	8.2	597249	Paul Thomas Anderson
+139	Лабиринт Фавна	2006	8.2	677173	Guillermo del Toro
+140	Непрощенный	1992	8.2	417872	Clint Eastwood
+141	Шестое чувство	1999	8.2	1004639	M. Night Shyamalan
+142	Остров проклятых	2010	8.2	1344650	Martin Scorsese
+143	Игры разума	2001	8.2	944277	Ron Howard
+144	Парк юрского периода	1993	8.1	1005219	Steven Spielberg
+145	Телохранитель	1961	8.1	124956	Akira Kurosawa
+146	The Treasure of the Sierra Madre	1948	8.1	126859	John Huston
+147	Монти Пайтон и священный Грааль	1975	8.1	548463	Terry Gilliam
+148	Старикам тут не место	2007	8.1	991945	Ethan Coen
+149	Большой побег	1963	8.1	248064	John Sturges
+150	Убить Билла	2003	8.1	1131755	Quentin Tarantino
+151	Расёмон	1950	8.1	171489	Akira Kurosawa
+152	Нечто	1982	8.1	434080	John Carpenter
+153	Человек-паук: Нет пути домой	2021	8.1	781657	Jon Watts
+154	В поисках Немо	2003	8.1	1058272	Andrew Stanton
+155	Человек-слон	1980	8.1	245874	David Lynch
+156	Китайский квартал	1974	8.1	332238	Roman Polanski
+157	Бешеный бык	1980	8.1	360051	Martin Scorsese
+158	«V» значит Вендетта	2005	8.1	1134271	James McTeigue
+159	Унесённые ветром	1939	8.1	320476	Victor Fleming
+160	Карты, деньги, два ствола	1998	8.1	591096	Guy Ritchie
+161	В случае убийства набирайте «М»	1954	8.1	179141	Alfred Hitchcock
+162	Головоломка	2015	8.1	728382	Pete Docter
+163	Тайна в его глазах	2009	8.1	212738	Juan José Campanella
+164	Ходячий замок	2004	8.1	405927	Hayao Miyazaki
+165	Три билборда на границе Эббинга, Миссури	2017	8.1	520673	Martin McDonagh
+166	На игле	1996	8.1	696567	Danny Boyle
+167	Мост через реку Квай	1957	8.1	224226	David Lean
+168	Пленницы	2013	8.1	735714	Denis Villeneuve
+169	Воин	2011	8.1	479178	Gavin O'Connor
+170	Фарго	1996	8.1	687995	Joel Coen
+171	Гран Торино	2008	8.1	784944	Clint Eastwood
+172	Мой сосед Тоторо	1988	8.1	348198	Hayao Miyazaki
+173	Поймай меня, если сможешь	2002	8.1	1008132	Steven Spielberg
+174	Малышка на миллион	2004	8.1	695991	Clint Eastwood
+175	Дети небес	1997	8.1	76060	Majid Majidi
+176	Бегущий по лезвию	1982	8.1	781784	Ridley Scott
+177	The Gold Rush	1925	8.1	113126	Charles Chaplin
+178	Клаус	2019	8.1	163841	Sergio Pablos
+179	Гарри Поттер и Дары смерти: Часть II	2011	8.1	892415	David Yates
+180	Перед рассветом	1995	8.1	316895	Richard Linklater
+181	12 лет рабства	2013	8.1	711347	Steve McQueen
+182	В порту	1954	8.1	157592	Elia Kazan
+183	Бен-Гур	1959	8.1	243259	William Wyler
+184	Отель «Гранд Будапешт»	2014	8.1	828549	Wes Anderson
+185	Исчезнувшая	2014	8.1	1000179	David Fincher
+186	Земляничная поляна	1957	8.1	109213	Ingmar Bergman
+187	Паровоз Генерал	1926	8.1	93187	Clyde Bruckman
+188	Барри Линдон	1975	8.1	172147	Stanley Kubrick
+189	Во имя отца	1993	8.1	178597	Jim Sheridan
+190	Охотник на оленей	1978	8.1	344573	Michael Cimino
+191	Третий человек	1949	8.1	174317	Carol Reed
+192	По соображениям совести	2016	8.1	541961	Mel Gibson
+193	Плата за страх	1953	8.1	62712	Henri-Georges Clouzot
+194	Воспоминания об убийстве	2003	8.1	192305	Bong Joon Ho
+195	Шерлок младший	1924	8.1	51697	Buster Keaton
+196	Дикие истории	2014	8.1	203166	Damián Szifron
+197	Мистер Смит едет в Вашингтон	1939	8.1	117007	Frank Capra
+198	Безумный Макс: Дорога ярости	2015	8.1	1020559	George Miller
+199	Мэри и Макс	2009	8.1	179798	Adam Elliot
+200	Седьмая печать	1957	8.1	188468	Ingmar Bergman
+201	Как приручить дракона	2010	8.1	753946	Dean DeBlois
+202	Корпорация монстров	2001	8.1	924007	Pete Docter
+203	Челюсти	1975	8.1	618150	Steven Spielberg
+204	Общество мёртвых поэтов	1989	8.1	503620	Peter Weir
+205	Комната	2015	8.1	428409	Lenny Abrahamson
+206	Большой Лебовски	1998	8.1	820659	Joel Coen
+207	Токийская повесть	1953	8.1	63453	Yasujirô Ozu
+208	Страсти Жанны д'Арк	1928	8.1	56704	Carl Theodor Dreyer
+209	Ford против Ferrari	2019	8.0	409838	James Mangold
+210	Отель «Руанда»	2004	8.0	360165	Terry George
+211	Рокки	1976	8.0	592126	John G. Avildsen
+212	Взвод	1986	8.0	420667	Oliver Stone
+213	Рататуй	2007	8.0	756310	Brad Bird
+214	В центре внимания	2015	8.0	478590	Tom McCarthy
+215	Логан	2017	8.0	779019	James Mangold
+216	Терминатор	1984	8.0	878732	James Cameron
+217	Останься со мной	1986	8.0	413074	Rob Reiner
+218	Гонка	2013	8.0	487572	Ron Howard
+219	Телесеть	1976	8.0	162252	Sidney Lumet
+220	Перед закатом	2004	8.0	271070	Richard Linklater
+221	В диких условиях	2007	8.0	631378	Sean Penn
+222	Волшебник страны Оз	1939	8.0	407245	Victor Fleming
+223	Лучшие годы нашей жизни	1946	8.0	66496	William Wyler
+224	День сурка	1993	8.0	645262	Harold Ramis
+225	Изгоняющий дьявола	1973	8.0	416752	William Friedkin
+226	Суперсемейка	2004	8.0	753180	Brad Bird
+227	Pather Panchali	1955	8.0	34522	Satyajit Ray
+228	Ненависть	1995	8.0	178952	Mathieu Kassovitz
+229	To Be or Not to Be	1942	8.0	39104	Ernst Lubitsch
+230	Пираты Карибского моря: Проклятие Чёрной жемчужины	2003	8.0	1144216	Gore Verbinski
+231	Хатико: самый верный друг	2009	8.0	292075	Lasse Hallström
+232	Гроздья гнева	1940	8.0	95444	John Ford
+233	La battaglia di Algeri	1966	8.0	61867	Gillo Pontecorvo
+234	Да прольётся свет	2021	8.0	205244	T.J. Gnanavel
+235	Мой отец и мой сын	2005	8.0	87734	Çagan Irmak
+236	Сука любовь	2000	8.0	244118	Alejandro G. Iñárritu
+237	Ребекка	1940	8.0	139871	Alfred Hitchcock
+238	Хладнокровный Люк	1967	8.0	180148	Stuart Rosenberg
+239	Служанка	2016	8.0	154324	Park Chan-wook
+240	Четыреста ударов	1959	8.0	121020	François Truffaut
+241	Звуки музыки	1965	8.0	242181	Robert Wise
+242	Это случилось однажды ночью	1934	8.0	106454	Frank Capra
+243	Персона	1966	8.0	122313	Ingmar Bergman
+244	Житие Брайана по Монти Пайтон	1979	8.0	406026	Terry Jones
+245	Стальной гигант	1999	8.0	205895	Brad Bird
+246	Прислуга	2011	8.0	468101	Tate Taylor
+247	Дерсу Узала	1975	8.0	31391	Akira Kurosawa
+248	Аладдин	1992	8.0	431181	Ron Clements
+249	Танцующий с волками	1990	8.0	273455	Kevin Costner
